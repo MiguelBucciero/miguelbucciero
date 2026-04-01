@@ -1,16 +1,16 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=1000&color=CE7A31&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Miguel+Bucciero+👋;Desarrollador+FullStack;Estudiante+UTN+FRGP)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=1000&color=CE7A31&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Miguel+Bucciero+👋;Desarrollador+FullStack)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
----
+
 
 <!-- SOBRE MÍ — DOS COLUMNAS -->
-<table>
+<table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="55%" style="border:none;">
 
 ### 👨‍💻 Sobre mí
 
@@ -31,18 +31,18 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelbucciero@gmail.com)
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="middle" width="45%" align="center" style="border:none;">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="340" alt="computer illustration"/>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- SKILLS CON ANIMACIÓN -->
-## 🛠️ Skills & Tecnologías
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>🛠️ Stack & Tecnologías</b>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
@@ -122,7 +122,7 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- PROYECTOS -->
 ## 🚀 Proyectos destacados
