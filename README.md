@@ -5,12 +5,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
-
-
-<!-- SOBRE MÍ — DOS COLUMNAS -->
-<table border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td valign="top" width="55%" style="border:none;">
+<!-- SOBRE MÍ -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computadora" width="380px" align="right"/>
 
 ### 👨‍💻 Sobre mí
 
@@ -30,89 +26,48 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CE7A31?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porfoliomiguel.runasp.net)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelbucciero@gmail.com)
 
-</td>
-<td valign="middle" width="45%" align="center" style="border:none;">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="340" alt="computer illustration"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<br/><br/>
 <!-- SKILLS CON ANIMACIÓN -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>🛠️ Stack & Tecnologías</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Stack & Tecnologías</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
 <div align="center">
-
-<table>
-<tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/>
-    <sub><b>C#</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br/>
-    <sub><b>ASP.NET</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/>
-    <sub><b>C++</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br/>
-    <sub><b>HTML5</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br/>
-    <sub><b>CSS3</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/>
-    <sub><b>Bootstrap</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
-    <sub><b>Git</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
-    <sub><b>GitHub</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/><br/>
-    <sub><b>VS</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>
-    <sub><b>VS Code</b></sub>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL"/><br/>
-    <sub><b>SQL Server</b></sub>
-  </td>
-</tr>
-</table>
-
+  <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQL Server" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+
+Estas son las tecnologías que manejo y he aplicado en proyectos universitarios y personales, construyendo aplicaciones web completas con C# y .NET, bases de datos relacionales y frontends responsivos.
+
+<br>
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelBucciero&show_icons=true&theme=transparent&title_color=CE7A31&icon_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBucciero&layout=compact&theme=transparent&title_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12"/>
 
 </div>
 
@@ -122,10 +77,10 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- PROYECTOS -->
-## 🚀 Proyectos destacados
+### 🚀 Proyectos destacados
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
