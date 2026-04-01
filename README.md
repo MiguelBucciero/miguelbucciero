@@ -1,71 +1,130 @@
+<!-- HEADER ANIMADO -->
 <div align="center">
 
-<!-- TÍTULO ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=CE7A31&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Miguel+Bucciero+👋;Desarrollador+FullStack;Estudiante+UTN+FRGP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=1000&color=CE7A31&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Miguel+Bucciero+👋;Desarrollador+FullStack;Estudiante+UTN+FRGP)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- SOBRE MÍ — DOS COLUMNAS -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 👨‍💻 Sobre mí
+
+Soy estudiante en la **UTN FRGP**, cursando el último cuatrimestre de la **Tecnicatura Universitaria en Programación**.
+
+Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo esa pasión en mi carrera profesional. Me especializo en desarrollo web con **C# y .NET**, y sigo creciendo con cada proyecto.
+
+- 🎓 **UTN FRGP** — Tecnicatura en Programación
+- 💼 Enfocado en **desarrollo web fullstack** con **.NET**
+- 🚀 Aprendiendo **ASP.NET MVC + Entity Framework**
+- 📍 Buenos Aires, Argentina
+- 📫 miguelbucciero@gmail.com
 
 <br/>
 
-<!-- BADGES REDES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buccieromiguel/)
-[![GitHub](https://img.shields.io/badge/GitHub-1e2326?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelBucciero)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CE7A31?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porfoliomiguel.runasp.net)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelbucciero@gmail.com)
 
-</div>
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 Sobre mí
-
-Soy estudiante en la **UTN FRGP**, cursando el último cuatrimestre de la **Tecnicatura Universitaria en Programación**.
-Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo esa pasión en mi carrera profesional.
-Me especializo en desarrollo web con **C# y .NET**, y sigo creciendo con cada proyecto.
-
-- 🎓 Estudiante en **UTN FRGP** — Tecnicatura en Programación
-- 💼 Enfocado en **desarrollo web fullstack** con el ecosistema **.NET**
-- 🚀 Actualmente aprendiendo **ASP.NET MVC + Entity Framework**
-- 📍 Buenos Aires, Argentina
-
----
-
-## 🛠️ Stack & Tecnologías
+<!-- SKILLS CON ANIMACIÓN -->
+## 🛠️ Skills & Tecnologías
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC342D?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0059B3?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1e2326?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<table>
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/>
+    <sub><b>C#</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br/>
+    <sub><b>ASP.NET</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/>
+    <sub><b>C++</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br/>
+    <sub><b>HTML5</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br/>
+    <sub><b>CSS3</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/>
+    <sub><b>Bootstrap</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+    <sub><b>Git</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
+    <sub><b>GitHub</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/><br/>
+    <sub><b>VS</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>
+    <sub><b>VS Code</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL"/><br/>
+    <sub><b>SQL Server</b></sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelBucciero&show_icons=true&theme=transparent&title_color=CE7A31&icon_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBucciero&layout=compact&theme=transparent&title_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelBucciero&show_icons=true&theme=transparent&title_color=CE7A31&icon_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBucciero&layout=compact&theme=transparent&title_color=CE7A31&text_color=ffffff&border_color=CE7A31&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelBucciero&theme=transparent&border=CE7A31&ring=CE7A31&fire=CE7A31&currStreakLabel=CE7A31&sideLabels=ffffff&dates=ffffff&stroke=CE7A3133&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelBucciero&theme=transparent&border=CE7A31&ring=CE7A31&fire=CE7A31&currStreakLabel=CE7A31&sideLabels=ffffff&dates=ffffff&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+<!-- PROYECTOS -->
 ## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
