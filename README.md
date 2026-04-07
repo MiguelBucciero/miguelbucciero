@@ -12,10 +12,10 @@
 
 Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo esa pasión en mi carrera profesional. Me especializo en desarrollo web con C# y .NET, y sigo creciendo con cada proyecto.
 
-🚀 Enfocado en desarrollo web fullstack con .NET
-📚 Aprendiendo ASP.NET MVC + Entity Framework
-📍 Buenos Aires, Argentina
-📧 miguelbucciero@gmail.com
+- 🚀 Enfocado en **desarrollo web fullstack** con **.NET**
+- 📚 Aprendiendo **ASP.NET MVC + Entity Framework**
+- 📍 Buenos Aires, Argentina
+- 📧 miguelbucciero@gmail.com
 
 <br/>
 
