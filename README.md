@@ -80,7 +80,7 @@ Estas son las tecnologías que manejo y he aplicado en proyectos universitarios 
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🛒 CompraTecno](https://github.com/MiguelBucciero/compratecno) | Tienda web con login, panel admin y gestión de artículos | C#, ASP.NET, SQL Server, Bootstrap |
+| [🛒 CompraTecno](https://github.com/MiguelBucciero/tp-final-nivel3-bucciero-miguel) | Tienda web con login, panel admin y gestión de artículos | C#, ASP.NET, SQL Server, Bootstrap |
 | [📅 Sistema de Turnos](https://github.com/MiguelBucciero/tpi-progra3) | Gestión de turnos para clínica médica | C#, .NET, SQL Server |
 | [🎮 PokeApp Web](https://github.com/MiguelBucciero/pokedex-web) | App web de Pokémons con ABML y base de datos | C#, ASP.NET, SQL Server |
 | [🖥️ App de Escritorio](https://github.com/MiguelBucciero/TPFinalNivel2) | Gestión de artículos con interfaz gráfica | C#, .NET, SQL Server |
