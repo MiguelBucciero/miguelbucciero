@@ -19,7 +19,7 @@ Desde chico me apasionó la tecnología y el software, y hoy estoy convirtiendo 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buccieromiguel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelbucciero/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CE7A31?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.miguelbucciero.com)
 
 <br/><br/>
